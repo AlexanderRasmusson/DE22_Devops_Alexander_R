@@ -1,4 +1,4 @@
-name: Go
+name: Go testing 1
 
 on:
   push:
@@ -7,10 +7,10 @@ on:
     branches: [ main ]
 
 jobs:
-
   build:
     runs-on: ubuntu-latest
-      steps:
+
+    steps:
       - uses: actions/checkout@v3
       - name: Setup Go
         uses: actions/setup-go@v4
