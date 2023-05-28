@@ -1,5 +1,7 @@
 # NOTE - this file has been edited by Alexander R.
 * Edited for testing reasons.
+* Edits made:
+   - Changed language in strings in handlers.go and handlers_test.go
 
 # nackademin-helloworld
 
