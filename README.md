@@ -1,3 +1,6 @@
+# NOTE - this file has been edited by Alexander R.
+* Edited for testing reasons.
+
 # nackademin-helloworld
 
 > A simple hello world application for Nackademin's course DE22
