@@ -2,6 +2,7 @@
 * Edited for testing reasons.
 * Edits made:
    - Changed language in strings in handlers.go and handlers_test.go
+   - Added workflows for testing purposes and creating + publishing Docker image
 
 # nackademin-helloworld
 
