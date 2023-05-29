@@ -2,7 +2,7 @@ name: Testing application on merge and PR on main
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main", "dev*" ]
   pull_request:
     branches: [ "main" ]
 
