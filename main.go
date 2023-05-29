@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/RedeployAB/nackademin-helloworld/server"
+	"github.com/AlexanderRasmusson/DE22_Devops_Alexander_R/server"
 )
 
 func main() {
