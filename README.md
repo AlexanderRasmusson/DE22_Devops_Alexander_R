@@ -2,6 +2,8 @@
 * Edited for testing reasons.
 * Edits made:
    - Changed language in strings in handlers.go and handlers_test.go
+   - Added workflows for testing the application + creating and publishing Docker image on merges with main
+   - Edited workflows to include test on pull request, push on branch with prefix "dev"
 
 # nackademin-helloworld
 
